@@ -1,0 +1,7 @@
+{
+  "name": "Geo Word",
+  "description": "An interactive linguistic mapping tool that traces the evolution and geographic migration of words throughout history using AI and D3.js visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
